@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_fragment"
+    app:startDestination="@id/AllAnimalFragment"
+    >
+
+    <fragment
+        android:id="@+id/AllAnimalFragment"
+        android:name="com.example.vetlinia.DoctorApp.doctor_fragment.AllAnimalsDoctorFragment"
+        android:label="AllAnimalFragment" />
+    <fragment
+        android:id="@+id/DoctorProfileFragment"
+        android:name="com.example.vetlinia.DoctorApp.doctor_fragment.ProfileDoctorFragment"
+        android:label="DoctorProfileFragment" />
+
+</navigation>

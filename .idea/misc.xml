@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Eng.Ridge/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_dropdown_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/drawable-v24/background.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/drawable/bottom_navigation_colors.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_admin_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_animal_profile.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_animal_profile_sos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_card_wizard.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_doctor_main.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_doctor_view_all_animals_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_maps.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_patient_main.xml" value="0.176" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_register.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_test_lap.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/activity_view_all_test_laps.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/add_animal_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/add_animal_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/add_test_lap_dialog.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/add_test_lap_digram.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/all_admin_animals.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/all_admin_doctors.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/all_admin_patient.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/all_admin_sos.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/all_animal_item.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/animal_profile_fragment.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/doctor_all_animals_fragment.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/doctor_profile_fragment.xml" value="0.152" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/doctor_register_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/item_card_wizard_light.xml" value="0.1109375" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/maps_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/my_animal_item.xml" value="0.2" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/patient_profile_fragment.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/patient_register_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/profile_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/sign_in_fragment.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/sign_up_fragment.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/sos_dialog_patient.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/sos_item.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/layout/test_lap_item.xml" value="0.264" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/menu/admin_bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/menu/doctor_bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Eng.Ridge/OneDrive/Desktop/vetlinia/app/src/main/res/menu/patient_bottom_menu.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Ridge/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_spinner_item.xml" value="0.13645833333333332" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/drawable-v24/background.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/drawable-v24/shape_circle.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/drawable/edit_text_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/drawable/ic_date_range_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/drawable/ic_eye_close.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/activity_admin_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/activity_card_wizard.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/activity_doctor_main.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/activity_main.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/activity_patient_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/activity_register.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/activity_splash.xml" value="0.136" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/doctor_register_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/fragment_splash_screen.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/item_card_wizard_light.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/patient_register_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/sign_in_fragment.xml" value="0.176" />
+        <entry key="..\:/Users/Ridge/Desktop/vetlinia/app/src/main/res/layout/sign_up_fragment.xml" value="0.23097826086956522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

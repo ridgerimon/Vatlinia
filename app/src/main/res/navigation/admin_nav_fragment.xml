@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_fragment"
+    app:startDestination="@id/AllDoctorFragment"
+    >
+
+    <fragment
+        android:id="@+id/AllDoctorFragment"
+        android:name="com.example.vetlinia.AdminApp.admin_fragments.AllDoctors"
+        android:label="AllDoctorFragment" />
+
+    <fragment
+        android:id="@+id/AllPatientFragment"
+        android:name="com.example.vetlinia.AdminApp.admin_fragments.AllPatient"
+        android:label="AllPatientFragment" />
+
+    <fragment
+        android:id="@+id/AllAnimalsFragment"
+        android:name="com.example.vetlinia.AdminApp.admin_fragments.AllAnimals"
+        android:label="AllAnimalsFragment" />
+
+    <fragment
+        android:id="@+id/AllSosFragment"
+        android:name="com.example.vetlinia.AdminApp.admin_fragments.AllSosMessage"
+        android:label="AllSosFragment" />
+
+</navigation>

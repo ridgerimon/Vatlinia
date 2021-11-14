@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/AllAnimalFragment"
+        android:icon="@drawable/add_animal_photo"
+        android:title="All Animals" />
+
+    <item
+        android:id="@+id/DoctorProfileFragment"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+</menu>

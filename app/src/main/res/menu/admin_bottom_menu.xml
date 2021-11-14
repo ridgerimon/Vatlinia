@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/AllDoctorFragment"
+        android:icon="@drawable/doctor"
+        android:title="All Doctors" />
+
+    <item
+        android:id="@+id/AllPatientFragment"
+        android:icon="@drawable/profile"
+        android:title="All Patient" />
+
+    <item
+        android:id="@+id/AllAnimalsFragment"
+        android:icon="@drawable/animal"
+        android:title="All Animals" />
+
+    <item
+        android:id="@+id/AllSosFragment"
+        android:icon="@drawable/sos"
+        android:title="SOS" />
+</menu>

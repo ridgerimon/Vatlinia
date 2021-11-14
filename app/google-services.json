@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "803229376144",
+    "project_id": "vet-clinic-dbms",
+    "storage_bucket": "vet-clinic-dbms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803229376144:android:84e3f535dbe7c45c450215",
+        "android_client_info": {
+          "package_name": "android.android.vetclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803229376144-h651nrs3rr8nkucsquev7brollvh6j9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbZP9mgNT3ReQ19HFScvfePF8Yp88Tgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803229376144-h651nrs3rr8nkucsquev7brollvh6j9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803229376144:android:1b323845994e580b450215",
+        "android_client_info": {
+          "package_name": "com.example.vetlinia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803229376144-g7fif2s5olcs7mrdjjh9igm9gumhmtt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vetlinia",
+            "certificate_hash": "e6eaf77b7e791114e021a44a2ed7f131a76c999b"
+          }
+        },
+        {
+          "client_id": "803229376144-h651nrs3rr8nkucsquev7brollvh6j9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbZP9mgNT3ReQ19HFScvfePF8Yp88Tgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803229376144-h651nrs3rr8nkucsquev7brollvh6j9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
